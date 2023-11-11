@@ -202,6 +202,9 @@ sections:
       filters:
         folders:
           - Pub_Dataset
+        featured_only: true
+      filters:
+        folders:
           - Pub_TRTM
         featured_only: true
     design:
