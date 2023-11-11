@@ -13,4 +13,5 @@ view: 4
 banner:
   caption: ''
   image: ''
+  video: 'mani_temp_drop.mp4'
 ---
