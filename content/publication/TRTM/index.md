@@ -46,10 +46,10 @@ featured: true
 #   url: http://example.org
 
 links:
-- name: Arxiv
-  url: https://arxiv.org/abs/2308.04670
 - name: Project Website
   url: https://wenbwa.github.io/TRTM/
+- name: Arxiv
+  url: https://arxiv.org/abs/2308.04670
 
 
 # url_pdf: ''
@@ -63,10 +63,10 @@ links:
 
 # # Featured image
 # # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: ''
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'TRTM'
+  focal_point: ''
+  preview_only: false
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
