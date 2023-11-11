@@ -27,10 +27,10 @@ authors:
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In Submission
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In Submission
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Precise reconstruction and manipulation of the crumpled cloths is challenging due to the high dimensionality of cloth models, as well as the limited observation at self-occluded regions. We leverage the recent progress in the field of single-view human reconstruction to template-based reconstruct crumpled cloths from their top-view depth observations only, with our proposed sim-real registration protocols. In contrast to previous implicit cloth representations, our reconstruction mesh explicitly describes the positions and visibilities of the entire cloth mesh vertices, enabling more efficient dual-arm and single-arm target-oriented manipulations. Experiments demonstrate that our TRTM system can be applied to daily cloths that have similar topologies as our template mesh, but with different shapes, sizes, patterns, and physical properties.
 
 # Summary. An optional shortened abstract.
 summary: Submitted to ICRA 2024.
@@ -82,10 +82,8 @@ image:
 # #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 # #   Otherwise, set `slides: ""`.
 # slides: example
----
 
 
----
 title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
 
 # Authors
@@ -114,10 +112,10 @@ authors:
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In Submission
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In Submission
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Precise reconstruction and manipulation of the crumpled cloths is challenging due to the high dimensionality of cloth models, as well as the limited observation at self-occluded regions. We leverage the recent progress in the field of single-view human reconstruction to template-based reconstruct crumpled cloths from their top-view depth observations only, with our proposed sim-real registration protocols. In contrast to previous implicit cloth representations, our reconstruction mesh explicitly describes the positions and visibilities of the entire cloth mesh vertices, enabling more efficient dual-arm and single-arm target-oriented manipulations. Experiments demonstrate that our TRTM system can be applied to daily cloths that have similar topologies as our template mesh, but with different shapes, sizes, patterns, and physical properties.
 
 # Summary. An optional shortened abstract.
 summary: Submitted to ICRA 2024.
@@ -155,21 +153,8 @@ image:
   focal_point: ''
   preview_only: false
 
-# # Associated Projects (optional).
-# #   Associate this publication with one or more of your projects.
-# #   Simply enter your project's folder or file name without extension.
-# #   E.g. `internal-project` references `content/project/internal-project/index.md`.
-# #   Otherwise, set `projects: []`.
-# projects:
-#   - example
-
-# # Slides (optional).
-# #   Associate this publication with Markdown slides.
-# #   Simply enter your slide deck's filename without extension.
-# #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-# #   Otherwise, set `slides: ""`.
-# slides: example
 ---
+
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
