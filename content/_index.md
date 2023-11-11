@@ -201,11 +201,8 @@ sections:
       title: Research Projects
       filters:
         folders:
-          - Pub_Dataset
-        featured_only: true
-      filters:
-        folders:
           - Pub_TRTM
+          - Pub_Dataset
         featured_only: true
     design:
       columns: '2'
