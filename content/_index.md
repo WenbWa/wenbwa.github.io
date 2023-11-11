@@ -203,7 +203,6 @@ sections:
         folders:
           - Pub_TRTM
           - Pub_Dataset
-        featured_only: true
     design:
       columns: '2'
       view: card
