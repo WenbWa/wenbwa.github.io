@@ -201,8 +201,8 @@ sections:
       title: Research Projects
       filters:
         folders:
-          - Dataset
-          - TRTM
+          - Pub_Dataset
+          - Pub_TRTM
         featured_only: true
     design:
       columns: '2'
