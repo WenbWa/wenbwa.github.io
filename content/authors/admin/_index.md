@@ -115,9 +115,11 @@ education:
 highlight_name: true
 ---
 
-I'm currently a master student at ETH Zurich in the major of Robotics, Systems and Control. Before that, I spent one year at UC Berkeley as one exchange student and  received my bachelor’s degree in Automation from Beijing Institute of Technology.
+I'm a master's student at [ETH Zurich](https://ethz.ch/en.html) majoring in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year at [UC Berkeley](https://www.berkeley.edu/) as an exchange student and received my bachelor’s degree in Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-During my master studies, I delivered my thesis in the Computational Robotics Lab at ETH Zurich under the supervision of Prof. Stelian Coros. After this, I took one research internship at Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. Currently, I'm a research assistent at the Advanced Interactive Technologies Lab at ETH Zurich, working with Dr. Jie Song and Prof. Otmar Hilliges.
+During my master's study, I delivered my thesis paper in the [Computational Robotics Lab](https://crl.ethz.ch/) at ETH Zurich under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html). After this, I took one research internship at the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/), Tübingen, Germany. 
+
+Currently, I'm a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) at ETH Zurich, working with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
 
 My research interests include computer vision, machine learning, and robotics. I delivered several projects on perceiving, reconstructing, and simulating daily objects and humans.
 
