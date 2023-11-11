@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Robotics, Systems and Control, 2020~2023
-      institution: ETH Zurich
-    - course: BSc in Automation (English Instruction), 2016~2020
-      institution: Beijing Institute of Technology
+    - course: MSc in Robotics, Systems and Control
+      institution: ETH Zurich, 2020~2023
+    - course: BSc in Automation (English Instruction)
+      institution: Beijing Institute of Technology, 2016~2020
 
 # # Skills
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
