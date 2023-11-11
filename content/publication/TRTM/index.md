@@ -1,9 +1,9 @@
 ---
 title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+# # Authors
+# # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
   - Gen Li  
@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-08-09T00:00:00Z'
-# doi: ''
+doi: 'Submitted to ICRA 2024'
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -48,7 +48,7 @@ featured: true
 links:
 - name: Project Website
   url: https://wenbwa.github.io/TRTM/
-- name: Arxiv
+- name: Arxiv Link
   url: https://arxiv.org/abs/2308.04670
 
 
