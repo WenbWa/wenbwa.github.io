@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Wenbo Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name: Shiung Wu
+# last_name: Chien
 
 # Status emoji
 status:
@@ -17,34 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ETH Zurich
+    url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Machine Learning
+  - Applied Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Robotics, Systems and Control, 2020~2023
+      institution: ETH Zurich
+    - course: BSc in Automation (English Instruction), 2016~2020
+      institution: Beijing Institute of Technology
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +115,10 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a master student at ETH Zurich in the major of Robotics, Systems and Control. Before that, I spent one year at UC Berkeley as one exchange student and  received my bachelor’s degree in Automation from Beijing Institute of Technology.
+
+During my master studies, I delivered my thesis in the Computational Robotics Lab at ETH Zurich under the supervision of Prof. Stelian Coros. After this, I took one research internship at Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. Currently, I'm a research assistent at the Advanced Interactive Technologies Lab at ETH Zurich, working with Dr. Jie Song and Prof. Otmar Hilliges.
+
+My research interests include computer vision, machine learning, and robotics. I delivered several projects on perceiving, reconstructing, and simulating daily objects and humans.
+
 {style="text-align: justify;"}
