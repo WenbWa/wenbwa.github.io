@@ -1,5 +1,5 @@
 ---
-title: '4DRESSED: A 4D Dataset of Real-world Clothed Humans Annotated with Semantic Labels'
+title: '4DRESSED: A 4D Dataset of Real-world Clothed Humans with Semantic Annotations'
 # authors:
 #   - admin
 #   - Hsuan-I Ho
