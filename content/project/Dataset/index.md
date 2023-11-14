@@ -15,7 +15,7 @@ title: '4DRESSED: A 4D Dataset of Real-world Clothed Humans Annotated with Seman
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-summary: Wenbo Wang, Hsuan-I Ho, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges. (CVPR 2024 Under Review)
+summary: Wenbo Wang, Hsuan-I Ho, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.
 
 tags:
   - Computer Vision
@@ -27,6 +27,9 @@ external_link: ''
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+
+links:
+- name: CVPR 2024 Under Review
 
 ---
 

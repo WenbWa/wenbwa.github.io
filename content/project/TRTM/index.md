@@ -2,7 +2,7 @@
 title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Cloths'
 summary: An example of using the in-built project page.
 
-summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros. (ICRA 2024 Under Review)'
+summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.'
 tags:
   - Computer Vision
 date: "2023-09-12T00:00:00Z"
@@ -20,7 +20,7 @@ links:
   url: https://arxiv.org/abs/2308.04670
 - name: Project Website
   url: https://wenbwa.github.io/TRTM/
-
+- name: ICRA 2024 Under Review
 
 # # links:
 # #   - icon: twitter
