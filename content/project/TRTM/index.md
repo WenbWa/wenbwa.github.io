@@ -1,5 +1,5 @@
 ---
-title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Cloths'
+title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
 summary: An example of using the in-built project page.
 
 summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.'
