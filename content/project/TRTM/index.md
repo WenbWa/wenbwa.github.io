@@ -1,5 +1,5 @@
 ---
-title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
+title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Cloths'
 summary: An example of using the in-built project page.
 authors:
   - admin
@@ -7,7 +7,7 @@ authors:
   - Miguel Zamora
   - Stelian Coros
 
-summary: Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.
+summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros. (ICRA 2024 Under Review)'
 tags:
   - Computer Vision
 date: "2023-09-12T00:00:00Z"
