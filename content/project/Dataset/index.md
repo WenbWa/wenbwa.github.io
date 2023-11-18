@@ -1,5 +1,5 @@
 ---
-title: '4DRESSED: A 4D Dataset of Real-world Clothed Humans with Semantic Annotations'
+title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations'
 # authors:
 #   - admin
 #   - Hsuan-I Ho
@@ -33,4 +33,4 @@ links:
 
 ---
 
-Our real-world dataset contains 4D textured and semantic scans of 60 human outfits in tight and loose garments, with more than 480 motion sequences and 72K scan frames in total. Together with the registered SMPL(-X) body models and captured multi-view images with pixel-wise annotations, our dataset builds the foundation for future works in human parsing and reconstruction, semantic human avatar learning, as well as realistic cloth simulation and reconstruction. 
+Our dataset contains 4D textured and semantic scans of 60 real-world human outfits in tight and loose garments, with more than 480 motion sequences and 72K scan frames in total. Together with the registered SMPL(-X) body models and captured multi-view images with pixel-wise annotations, our dataset builds the foundation for future works in human parsing and reconstruction, semantic human avatar learning, realistic cloth reconstruction and simulation. 
