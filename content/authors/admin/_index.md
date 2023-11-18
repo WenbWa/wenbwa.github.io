@@ -121,4 +121,5 @@ During my master's study, I delivered my thesis in the [Computational Robotics L
 
 Currently, I'm a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) at ETH Zurich, working with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). My research interests include computer vision, machine learning, and robotics. I delivered several projects on perceiving, reconstructing, and simulating daily objects and humans.
 
+I play tennis 🎾 during summer and go skiing ⛷️ when the snow falls.
 {style="text-align: justify;"}
