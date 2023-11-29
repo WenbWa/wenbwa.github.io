@@ -22,7 +22,8 @@ tags:
 date: "2023-09-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://youtu.be/2-IcCZSp5F8'
+# external_link: 'https://youtu.be/2-IcCZSp5F8'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
