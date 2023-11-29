@@ -22,7 +22,7 @@ tags:
 date: "2023-09-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://youtu.be/2-IcCZSp5F8'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -33,4 +33,4 @@ links:
 
 ---
 
-Our dataset contains 4D textured and semantic scans of 60 real-world human outfits in tight and loose garments, with more than 480 motion sequences and 72K scan frames in total. Together with the registered SMPL(-X) body models and captured multi-view images with pixel-wise annotations, our dataset builds the foundation for future works in human parsing and reconstruction, semantic human avatar learning, realistic cloth reconstruction and simulation. 
+4D-DRESS is the first 4D real-world dataset providing human clothing with semantic annotations, which contains 4D textured and semantic scans of 60 real-world human outfits in tight and loose garments, with more than 480 motion sequences and 72K scan frames in total. Together with the registered SMPL(-X) body models and captured multi-view images with pixel annotations, our dataset builds the foundation for future works in human parsing and reconstruction, semantic human avatar learning, realistic cloth reconstruction and simulation. 
