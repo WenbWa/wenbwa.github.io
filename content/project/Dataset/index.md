@@ -30,7 +30,7 @@ image:
   focal_point: Smart
 
 links:
-- name: CVPR 2024 Under Review
+- name: Under Review
 
 ---
 
