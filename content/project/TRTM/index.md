@@ -20,7 +20,7 @@ links:
   url: https://arxiv.org/abs/2308.04670
 - name: Project Website
   url: https://wenbwa.github.io/TRTM/
-- name: Preprint
+- name: ICRA 2024
 
 # # links:
 # #   - icon: twitter
