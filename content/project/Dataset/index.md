@@ -1,8 +1,8 @@
 ---
 title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations'
 # authors:
-#   - admin
-#   - Hsuan-I Ho
+#   - admin*
+#   - Hsuan-I Ho*
 #   - Chen Guo
 #   - Boxiang Rong
 #   - Artur Grigorev
@@ -30,7 +30,11 @@ image:
   focal_point: Smart
 
 links:
-- name: Under Review
+- name: Arxiv Link
+  url: https://wenbwa.github.io/project/dataset/
+- name: Project Website
+  url: https://wenbwa.github.io/project/dataset/
+- name: CVPR 2024
 
 ---
 
