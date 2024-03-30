@@ -15,11 +15,11 @@ title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annota
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-summary: Wenbo Wang, Hsuan-I Ho, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.
+summary: Wenbo Wang*, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.
 
 tags:
   - Computer Vision
-date: "2023-09-17T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://youtu.be/2-IcCZSp5F8'
