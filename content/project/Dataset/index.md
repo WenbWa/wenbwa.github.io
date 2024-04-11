@@ -22,8 +22,7 @@ tags:
 date: "2024-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: 'https://youtu.be/2-IcCZSp5F8'
-external_link: ''
+external_link: https://eth-ait.github.io/4d-dress/
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -31,10 +30,10 @@ image:
 
 links:
 - name: Arxiv Link
-  url: https://wenbwa.github.io/project/dataset/
+  url: https://eth-ait.github.io/4d-dress/
 - name: Project Website
-  url: https://wenbwa.github.io/project/dataset/
-- name: CVPR 2024
+  url: https://eth-ait.github.io/4d-dress/
+- name: CVPR 2024 (Highlight 11.9%)
 
 ---
 
