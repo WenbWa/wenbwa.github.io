@@ -17,7 +17,7 @@ sections:
 
   - block: collection
     content:
-      title: Research Projects
+      title: Publications
       filters:
         folders:
           - project
@@ -38,9 +38,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: card
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      view: compact
+      # # For Showcase view, flip alternate rows?
+      # flip_alt_rows: false
 
   # - block: resume-biography-3
   #   content:
