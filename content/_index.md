@@ -179,8 +179,8 @@ sections:
           tag: '*'
         - name: Computer Vision
           tag: Computer Vision
-        - name: Robotics
-          tag: Robotics
+        - name: Robotics & Embodied AI
+          tag: Robotics & Embodied AI
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

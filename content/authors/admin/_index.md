@@ -17,27 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ETH Zurich
-    url: https://ethz.ch/en.html
+  - name: The University of Sydney
+    url: https://www.sydney.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and machine learning.
+bio: My research interests span robotics, computer vision and machine learning.
 
 # Interests to show in About widget
 interests:
+  - Robotics
+  - Embodied AI
   - Computer Vision
   - Machine Learning
-  - Applied Robotics
 
 # Education to show in About widget
-education:
+Experiences:
   courses:
+    - course: PhD in Computer Science
+      institution: The University of Sydney, 2025~Present
+    - course: Research-based Internship
+      institution: Microsoft Research Asia, 2024~2025
     - course: MSc in Robotics, Systems and Control
-      institution: ETH Zurich, 2020~2023
+      institution: ETH Zurich, 2020~2024
+    - course: International Exchange Student
+      institution: University of California, Berkeley, 2019~2020
     - course: BSc in Automation (English Instruction)
       institution: Beijing Institute of Technology, 2016~2020
 
@@ -115,11 +122,13 @@ education:
 highlight_name: true
 ---
 
-I'm a master student at [ETH Zurich](https://ethz.ch/en.html) with the major in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year at [UC Berkeley](https://www.berkeley.edu/) as an exchange student and received my bachelor’s degree in Science of Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
+I'm currently a PhD student at [The University of Sydney](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
 
-During my master's study, I delivered my thesis in the [Computational Robotics Lab](https://crl.ethz.ch/) at ETH Zurich under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html). After this, I took one research internship at the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/), Germany. 
+Previously, I completed my master’s degree at [ETH Zurich](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year at [University of California, Berkeley](https://www.berkeley.edu/) as an exchange student and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-Currently, I'm a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) at ETH Zurich, working with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). My research interests include computer vision, machine learning, and robotics. I delivered several projects on perceiving, reconstructing, and simulating daily objects and humans.
+During my master's study, I conducted my thesis at the [Computational Robotics Lab](https://crl.ethz.ch/) at ETH Zurich under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html), and worked as a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) at ETH Zurich, with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
+
+Before starting my PhD, I also completed a research-based internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=17a598ce889469f02b858d8889fa684e), where I explored the integration of large models with robotics. Broadly, my research interests span robotics, computer vision and machine learning.
 
 Personally, I play tennis 🎾 during the summer and go skiing ⛷️ when the snow falls.
 {style="text-align: justify;"}
