@@ -3,7 +3,7 @@ title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of 
 summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.'
 
 tags:
-  - Robotics & Embodied AI
+  - Robotics
 date: "2023-09-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
