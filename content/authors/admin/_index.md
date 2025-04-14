@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Wenbo Wang
+title: 吳健雄
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -16,119 +16,171 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: PhD Student
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: The University of Sydney
-    url: https://www.sydney.edu.au/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests span robotics, computer vision and machine learning.
-
-# Interests to show in About widget
-interests:
-  - Robotics
-  - Embodied AI
-  - Computer Vision
-  - Machine Learning
-
-# Education to show in About widget
-Experiences:
-  courses:
-    - course: PhD in Computer Science
-      institution: The University of Sydney, 2025~Present
-    - course: Research-based Internship
-      institution: Microsoft Research Asia, 2024~2025
-    - course: MSc in Robotics, Systems and Control
-      institution: ETH Zurich, 2020~2024
-    - course: International Exchange Student
-      institution: University of California, Berkeley, 2019~2020
-    - course: BSc in Automation (English Instruction)
-      institution: Beijing Institute of Technology, 2016~2020
-
-# # Skills
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: database
-#         icon_pack: fas
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-hiking
-#         icon_pack: fas
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#         icon_pack: fas
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera-retro
-#         icon_pack: fas
-
-# # Social/Academic Networking
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-#   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#     icon_pack: fas
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/
-#   # Link to a PDF of your resume/CV.
-#   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-#   # and uncomment the lines below.
-#   - icon: cv
-#     icon_pack: ai
-#     link: uploads/resume.pdf
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Role/position/tagline
+role: Chief Scientist
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: OpenAI
+    url: https://openai.com/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+
+education:
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I'm currently a PhD student at [The University of Sydney](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
+## About Me
 
-Previously, I completed my master’s degree at [ETH Zurich](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year at [University of California, Berkeley](https://www.berkeley.edu/) as an exchange student and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
-
-During my master's study, I conducted my thesis at the [Computational Robotics Lab](https://crl.ethz.ch/) at ETH Zurich under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html), and worked as a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) at ETH Zurich, with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
-
-Before starting my PhD, I also completed a research-based internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=17a598ce889469f02b858d8889fa684e), where I explored the integration of large models with robotics. Broadly, my research interests span robotics, computer vision and machine learning.
-
-Personally, I play tennis 🎾 during the summer and go skiing ⛷️ when the snow falls.
-{style="text-align: justify;"}
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
