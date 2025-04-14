@@ -24,7 +24,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Sydney
+  - name: The University of Sydney
     url: https://www.sydney.edu.au/
 
 # Social network links
@@ -48,7 +48,7 @@ interests:
 
 education:
   - area: PhD in Computer Science
-    institution: University of Sydney, 2025~Present
+    institution: The University of Sydney, 2025~Present
   - area: MSc in Robotics, Systems, Control
     institution: ETH Zurich, 2020~2024
   - area: BSc in Automation
@@ -62,7 +62,7 @@ I'm currently a PhD student at [The University of Sydney](https://www.sydney.edu
 
 Previously, I completed my master’s degree at [ETH Zurich](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year at [University of California, Berkeley](https://www.berkeley.edu/) as an exchange student and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-During my master's study at ETH Zurich, I conducted my thesis at the [Computational Robotics Lab](https://crl.ethz.ch/) under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html), and worked as a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) with [Dr. Jie Song](https://ait.ethz.ch/people/song) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
+During my master's study at ETH Zurich, I conducted my thesis at the [Computational Robotics Lab](https://crl.ethz.ch/) under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html), and worked as a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) with [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
 
 Before starting my PhD, I also completed a research-based internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=17a598ce889469f02b858d8889fa684e), where I explored the integration of large models with robotics. Broadly, my research interests span robotics, computer vision and machine learning.
 

@@ -1,7 +1,7 @@
 ---
-title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations'
+title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations - CVPR 2024 Highlight'
 
-summary: Wenbo Wang*, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.
+summary: '<strong>Wenbo Wang*<strong>, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.'
 
 tags:
   - Computer Vision
@@ -13,6 +13,7 @@ external_link: https://eth-ait.github.io/4d-dress/
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  display: original
 
 links:
 - name: Arxiv Link

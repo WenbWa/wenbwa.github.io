@@ -1,7 +1,7 @@
 ---
-title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping'
+title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping - CVPR 2025'
 
-summary: Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.
+summary: '<strong>Wenbo Wang<strong>, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.'
 
 tags:
   - Robotics
@@ -13,6 +13,7 @@ external_link: https://dexhand.github.io/UniGraspTransformer/
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  display: original
 
 links:
 - name: Arxiv Link
