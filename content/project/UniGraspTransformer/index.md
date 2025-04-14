@@ -1,5 +1,6 @@
 ---
 title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping'
+
 summary: Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.
 
 tags:

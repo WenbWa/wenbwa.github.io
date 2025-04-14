@@ -1,5 +1,6 @@
 ---
 title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
+
 summary: Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.
 
 tags:

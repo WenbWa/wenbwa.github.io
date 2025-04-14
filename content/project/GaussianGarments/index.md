@@ -1,5 +1,6 @@
 ---
 title: 'Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photo-Realistic Appearance from Multi-View Video'
+
 summary: Boxiang Rong*, Artur Grigorev*, Wenbo Wang, Michael J. Black, Bernhard Thomaszewski, Christina Tsalicoglou, Otmar Hilliges.
 
 tags:

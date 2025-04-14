@@ -1,5 +1,6 @@
 ---
 title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations'
+
 summary: Wenbo Wang*, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.
 
 tags:
