@@ -1,10 +1,10 @@
 ---
-title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations - CVPR 2024 Highlight'
+title: '4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations'
 
-summary: '**Wenbo Wang***, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.'
+summary: 'Wenbo Wang*, Hsuan-I Ho*, Chen Guo, Boxiang Rong, Artur Grigorev, Jie Song, Juan Jose Zarate, Otmar Hilliges.'
 
 tags:
-  - Computer Vision
+  - CVPR 2024 Highlight
 date: "2024-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,10 +1,10 @@
 ---
-title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths - ICRA 2024'
+title: 'TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths'
 
-summary: '**Wenbo Wang**, Gen Li, Miguel Zamora, Stelian Coros.'
+summary: 'Wenbo Wang, Gen Li, Miguel Zamora, Stelian Coros.'
 
 tags:
-  - Robotics
+  - ICRA 2024
 date: "2023-09-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

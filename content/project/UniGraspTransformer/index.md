@@ -1,10 +1,10 @@
 ---
-title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping - CVPR 2025'
+title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping'
 
-summary: '**Wenbo Wang**, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.'
+summary: 'Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.'
 
 tags:
-  - Robotics
+  - CVPR 2025
 date: "2025-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

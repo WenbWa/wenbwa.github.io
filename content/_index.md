@@ -51,7 +51,7 @@ sections:
       # flip_alt_rows: false
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 2
 
   # - block: resume-biography-3
   #   content:
