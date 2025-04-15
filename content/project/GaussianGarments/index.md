@@ -1,7 +1,7 @@
 ---
 title: 'Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photo-Realistic Appearance from Multi-View Video - 3DV 2025'
 
-summary: 'Boxiang Rong*, Artur Grigorev*, <strong>Wenbo Wang<strong>, Michael J. Black, Bernhard Thomaszewski, Christina Tsalicoglou, Otmar Hilliges.'
+summary: 'Boxiang Rong*, Artur Grigorev*, **Wenbo Wang**, Michael J. Black, Bernhard Thomaszewski, Christina Tsalicoglou, Otmar Hilliges.'
 
 tags:
   - Computer Vision

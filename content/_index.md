@@ -7,6 +7,14 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+  background:
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 
 sections:
   - block: resume-biography-3
@@ -22,25 +30,28 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+      # default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Computer Vision
-          tag: Computer Vision
-        - name: Robotics
-          tag: Robotics
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Computer Vision
+      #     tag: Computer Vision
+      #   - name: Robotics
+      #     tag: Robotics
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # # Choose how many columns the section has. Valid values: '1' or '2'.
+      # columns: '1'
+      # view: card
+      # # # For Showcase view, flip alternate rows?
+      # flip_alt_rows: false
+      view: article-grid
+      fill_image: false
+      columns: 1
 
   # - block: resume-biography-3
   #   content:

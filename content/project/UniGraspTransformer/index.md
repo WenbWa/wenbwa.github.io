@@ -1,7 +1,7 @@
 ---
 title: 'UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping - CVPR 2025'
 
-summary: '<strong>Wenbo Wang<strong>, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.'
+summary: '**Wenbo Wang**, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo.'
 
 tags:
   - Robotics
