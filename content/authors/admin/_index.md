@@ -59,7 +59,7 @@ education:
 
 ## About Me
 
-I am currently a PhD student at [University of Sydney, Australia](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
+I'm currently a PhD student at [The University of Sydney, Australia](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
 
 Previously, I completed my master’s degree at [ETH Zurich, Switzerland](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year as an international exchange student at [University of California, Berkeley](https://www.berkeley.edu/) and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology, China](https://english.bit.edu.cn/).
 
