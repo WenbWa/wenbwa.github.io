@@ -24,7 +24,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of Sydney
+  - name: University of Sydney
     url: https://www.sydney.edu.au/
 
 # Social network links
@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: PhD in Computer Science
-    institution: The University of Sydney, Australia
+    institution: University of Sydney, Australia
   - area: MSc in Robotics, Systems, Control
     institution: ETH Zurich, Switzerland
   - area: BSc in Automation
@@ -59,9 +59,9 @@ education:
 
 ## About Me
 
-I'm currently a PhD student at [The University of Sydney, Australia](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
+I am currently a PhD student at [University of Sydney, Australia](https://www.sydney.edu.au/), majoring in [Computer Science](https://www.sydney.edu.au/engineering/schools/school-computer-science.html), under the supervision of [Prof. Chang Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html). 
 
-Previously, I completed my master’s degree at [ETH Zurich, Switzerland](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year as an exchange student at [University of California, Berkeley](https://www.berkeley.edu/) and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology](https://english.bit.edu.cn/).
+Previously, I completed my master’s degree at [ETH Zurich, Switzerland](https://ethz.ch/en.html), specializing in [Robotics, Systems and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html). Before that, I spent one year as an international exchange student at [University of California, Berkeley](https://www.berkeley.edu/) and earned my bachelor’s degree in Science of Automation from [Beijing Institute of Technology, China](https://english.bit.edu.cn/).
 
 During my master's study at ETH Zurich, I conducted my thesis at the [Computational Robotics Lab](https://crl.ethz.ch/) under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html), and worked as a research assistant at the [Advanced Interactive Technologies Lab](https://ait.ethz.ch/) with [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges).
 
