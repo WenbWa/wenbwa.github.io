@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mwwbabroad@126.com'
+    url: 'wwan0412@uni.sydney.edu.au'
     label: E-mail
   - icon: brands/github
     url: https://github.com/WenbWa/
