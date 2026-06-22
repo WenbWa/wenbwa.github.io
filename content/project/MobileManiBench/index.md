@@ -4,8 +4,8 @@ title: 'MobileManiBench: Simplifying Model Verification for Mobile Manipulation'
 summary: 'Wenbo Wang, Fangyun Wei, QiXiu Li, Xi Chen, Yaobo Liang, Chang Xu, Jiaolong Yang, Baining Guo.'
 
 tags:
-  - MSRA
-date: "2025-11-20T00:00:00Z"
+  - ECCV 2026
+date: "2026-9-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://dexhand.github.io/MobileManiBench_Website/
