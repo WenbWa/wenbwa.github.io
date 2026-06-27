@@ -8,7 +8,7 @@ tags:
 date: "2026-06-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://dexhand.github.io/MobileManiBench_Website/
+external_link: https://dexhand.github.io/MobileManiBench/
 
 image:
   caption: Photo by rawpixel on Unsplash
